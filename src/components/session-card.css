@@ -1,0 +1,14 @@
+.card{
+    width: 350px;
+    margin: 8px;
+    display: inline-block;
+}
+
+.speaker {
+    font-size: 12px;
+}
+
+.session-card {
+    background-color: #1FBBF8;
+    color: white
+}
